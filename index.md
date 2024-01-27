@@ -35,7 +35,7 @@ Customer <customer@email>	25 октября 2023 г. в 17:46
 *Светлана*
 
 `13:32`
-![screenshot](/files/780aac10-9a90-4ddf-9a39-c235f855dccd.png "780aac10-9a90-4ddf-9a39-c235f855dccd.png")
+<img src="/files/780aac10-9a90-4ddf-9a39-c235f855dccd.png" width="600">
 >780aac10-9a90-4ddf-9a39-c235f855dccd.png
 >Артикулы я указал в первом сообщении
 
@@ -60,7 +60,7 @@ Customer <customer@email>	25 октября 2023 г. в 17:46
 *Мария*
 
 `13:36`
-[screenshot](/files/069afdd1-de9e-48ba-8c4c-3844aba88027.png "069afdd1-de9e-48ba-8c4c-3844aba88027.png")
+<img src="/files/069afdd1-de9e-48ba-8c4c-3844aba88027.png" width="600">
 >069afdd1-de9e-48ba-8c4c-3844aba88027.png
 
 `13:37`
@@ -201,7 +201,7 @@ Customer <customer@email>	8 декабря 2023 г. в 16:22
 Кому: sales <sales@wildberries.ru>
 ```
 Это тоже ложь. Вот в этом моменте у сотрудника не возникло сложностей с регистрацией обращения (прямо в теле этой переписки)
-[screenshot](/files/letter_screenshot_1.png "letter_screenshot_1.png")
+<img src="/files/letter_screenshot_1.png" width="600" style="border:1px dashed;">
 
 ---
 ```
